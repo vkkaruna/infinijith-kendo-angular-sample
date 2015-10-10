@@ -37,19 +37,19 @@ angular.module("mainApp", ["kendo.directives"]).controller("GridController", fun
             width: "120px"
         },{
             field: "gold",
-            title: "Gold Metals",
+            title: "Gold Medals",
             width: "120px"
         },{
             field: "silver",
-            title: "Silver Metals",
+            title: "Silver Medals",
             width: "120px"
         },{
             field: "bronze",
-            title: "Bronze Metals",
+            title: "Bronze Medals",
             width: "120px"
         },{
             field: "total",
-            title: "Total    Metals",
+            title: "Total Medals",
             width: "120px"
         }]
     };

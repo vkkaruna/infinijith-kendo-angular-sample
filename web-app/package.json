@@ -1,0 +1,9 @@
+{
+    "name": "infinijith-kendo-angular-sample",
+    "version": "0.0.1",
+
+    "scripts": {
+        "prestart": "npm install",
+        "start": "http-server -a localhost -p 8000 -c-1"
+    }
+}
